@@ -1,4 +1,5 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+<img width="3780" height="1890" alt="Hi 👋, I’m Ney L" src="https://github.com/user-attachments/assets/6aba806a-8590-4946-a342-126846ff4740" />
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
