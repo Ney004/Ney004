@@ -25,7 +25,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 
-### 🤖 &nbsp;AI & Computer Vision
+### 🤖 &nbsp;AI
 
 ![YOLO](https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
